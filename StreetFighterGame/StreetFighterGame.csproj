@@ -53,11 +53,11 @@
     <Compile Include="Scenes\MenuScene.cs" />
     <Compile Include="Scenes\SceneBase.cs" />
     <Compile Include="Scripts\Utilities.cs" />
-    <Compile Include="UI\Form1.cs">
+    <Compile Include="UI\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="UI\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="GameConfig.cs" />
     <Compile Include="GameEngine\AnimationManager.cs" />
