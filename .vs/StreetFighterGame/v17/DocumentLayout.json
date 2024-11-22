@@ -1,66 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\",
+  "WorkspaceRootPath": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|c:\\users\\thuy\\desktop\\file_bai_tap\\nam_2\\lt_window\\project_ck_winform\\streetfightergame\\streetfightergame\\scripts\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\scripts\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\streetfightergame\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\scenes\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\scenes\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\scenes\\scenebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\scenes\\scenebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\characters\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\characters\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\ui\\pausescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\ui\\pausescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\ui\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\ui\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\ui\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\ui\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\characters\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\characters\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\characters\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\characters\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\gameengine\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\gameengine\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\gameengine\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\gameengine\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\gameengine\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\gameengine\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\streetfightergame\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\streetfightergame\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|c:\\users\\thuy\\desktop\\file_bai_tap\\nam_2\\lt_window\\streetfightergame\\streetfightergame\\characters\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DCD9AA-12B9-40E2-8325-C0D939913B76}|StreetFighterGame\\StreetFighterGame.csproj|solutionrelative:streetfightergame\\characters\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,188 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scripts\\Utilities.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Scripts\\Utilities.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scripts\\Utilities.cs*",
-              "RelativeToolTip": "StreetFighterGame\\Scripts\\Utilities.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\StreetFighterGame\\Characters\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "StreetFighterGame\\Characters\\CharacterBase.cs",
+              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\StreetFighterGame\\Characters\\CharacterBase.cs",
+              "RelativeToolTip": "StreetFighterGame\\Characters\\CharacterBase.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAxwNIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:45:58.325Z",
+              "WhenOpened": "2024-11-14T11:39:10.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MenuScene.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scenes\\MenuScene.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Scenes\\MenuScene.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scenes\\MenuScene.cs",
-              "RelativeToolTip": "StreetFighterGame\\Scenes\\MenuScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:45:13.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BattleScene.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scenes\\BattleScene.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Scenes\\BattleScene.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scenes\\BattleScene.cs",
-              "RelativeToolTip": "StreetFighterGame\\Scenes\\BattleScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:44:46.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SceneBase.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scenes\\SceneBase.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Scenes\\SceneBase.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Scenes\\SceneBase.cs",
-              "RelativeToolTip": "StreetFighterGame\\Scenes\\SceneBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:44:25.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PauseScreen.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\UI\\PauseScreen.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\UI\\PauseScreen.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\UI\\PauseScreen.cs",
-              "RelativeToolTip": "StreetFighterGame\\UI\\PauseScreen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:43:09.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameOverScreen.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\UI\\GameOverScreen.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\UI\\GameOverScreen.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\UI\\GameOverScreen.cs",
-              "RelativeToolTip": "StreetFighterGame\\UI\\GameOverScreen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:42:42.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Characters\\PlayerCharacter.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Characters\\PlayerCharacter.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Characters\\PlayerCharacter.cs",
-              "RelativeToolTip": "StreetFighterGame\\Characters\\PlayerCharacter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:39:53.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "startScreen.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\UI\\startScreen.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\UI\\startScreen.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\UI\\startScreen.cs",
-              "RelativeToolTip": "StreetFighterGame\\UI\\startScreen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:42:21.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EnemyCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Characters\\EnemyCharacter.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Characters\\EnemyCharacter.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Characters\\EnemyCharacter.cs",
-              "RelativeToolTip": "StreetFighterGame\\Characters\\EnemyCharacter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:40:14.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CharacterBase.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Characters\\CharacterBase.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\Characters\\CharacterBase.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\Characters\\CharacterBase.cs",
-              "RelativeToolTip": "StreetFighterGame\\Characters\\CharacterBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:39:10.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AnimationManager.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\AnimationManager.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\GameEngine\\AnimationManager.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\AnimationManager.cs",
-              "RelativeToolTip": "StreetFighterGame\\GameEngine\\AnimationManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:38:23.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InputHandler.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\InputHandler.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\GameEngine\\InputHandler.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\InputHandler.cs",
-              "RelativeToolTip": "StreetFighterGame\\GameEngine\\InputHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:37:58.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CollisionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\CollisionHandler.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\GameEngine\\CollisionHandler.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\CollisionHandler.cs",
-              "RelativeToolTip": "StreetFighterGame\\GameEngine\\CollisionHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:37:32.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "GameEngine.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\StreetFighterGame\\GameEngine\\GameEngine.cs",
               "RelativeDocumentMoniker": "StreetFighterGame\\GameEngine\\GameEngine.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameEngine\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\StreetFighterGame\\GameEngine\\GameEngine.cs",
               "RelativeToolTip": "StreetFighterGame\\GameEngine\\GameEngine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:37:07.434Z"
+              "WhenOpened": "2024-11-22T05:55:10.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GameConfig.cs",
-              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameConfig.cs",
-              "RelativeDocumentMoniker": "StreetFighterGame\\GameConfig.cs",
-              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\Project_CK_winform\\StreetFighterGame\\StreetFighterGame\\GameConfig.cs",
-              "RelativeToolTip": "StreetFighterGame\\GameConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\StreetFighterGame\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "StreetFighterGame\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\THUY\\Desktop\\file_bai_tap\\nam_2\\LT_Window\\StreetFighterGame\\StreetFighterGame\\UI\\MainForm.cs",
+              "RelativeToolTip": "StreetFighterGame\\UI\\MainForm.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:33:24.705Z"
+              "WhenOpened": "2024-11-20T09:53:46.732Z",
+              "EditorCaption": ""
             }
           ]
         }

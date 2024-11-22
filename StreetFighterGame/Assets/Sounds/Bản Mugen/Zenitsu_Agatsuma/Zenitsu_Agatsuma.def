@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Zenitsu"
+displayname = "Zenitsu Agatsuma"
+versiondate = 17/08/2021
+mugenversion = 1.0
+author = "Sebastiao"
+pal.defaults = 1,2,3,4,5
+
+[Files]
+sprite = Zenitsu_Agatsuma.sff
+anim = Zenitsu_Agatsuma.air
+sound =Zenitsu_Agatsuma.snd
+cmd = Zenitsu_Agatsuma.cmd
+cns = Zenitsu_Agatsuma.cns
+stcommon = common1.cns
+st = Zenitsu_Agatsuma.cns
+st1 = IA.cns
+st2 = Specials.cns
+st3 = Supers.cns
+pal1 = 1.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

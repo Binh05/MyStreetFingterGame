@@ -1,0 +1,36 @@
+
+A - combo a
+
+B - combo b
+
+C - combo c
+
+X - dash
+
+S - Power Charge
+
+SPECIALS:
+
+D,DF,F,a - Thunderclap Flash
+
+D,DB,B,a - Thunderclap Flash: Eightfold
+
+D,DF,F,b - Wind slash
+
+D,DB,B,b - Electric sphere
+
+D,DF,F,c - Multiple slash
+
+D,DB,B,c - Energy press
+
+SUPER: 
+
+hold D,a - Thunderclap Flash: Sixfold(changes with life < 50%)
+hold D,b - Thunderclap Flash: Godspeed(can be used 2 times)
+hold D,c - Storming Sky
+hold D,x - secret action: Moonlight Flash (opponent life must be under 25%)
+
+THUNDER MASTER MODE
+
+hold D,S - Activation
+z - teleport
